@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanket Mahale work
+- 👋 Hi, I’m Sanket Mahale
 - 👀 A passionate Automation Tester from India
 - 🌱 I’m currently learning Mobile Automation
 - 💬 Ask me about Selenium,JAVA,POSTMAN ,TestNG , Cucumber
